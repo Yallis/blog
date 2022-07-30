@@ -10,3 +10,6 @@ $heroku addons:create heroku-postgresql:hobby-dev --app <nome do app>
 $heroku config --app blog-python-ocean
 ## manda pro heroku
 $git push heroku main
+
+## para atualizar
+$git push heroku main
